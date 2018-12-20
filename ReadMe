@@ -1,1 +1,5 @@
+The game "TwentyFour" is a game in which the computer randomly generates you four numbers and you must type in "+", "-", "/", "*"
+in order to achieve 24. Let us say the numbers generated are: 8 1 1 3. In order to achieve 24 you would do the following: (8 * 1 * 1 * 3). 
+If your answer does not equal 24, the program will show you where you went wrong. There are many error checking, as well as Debug mode in 
+which the computer runs all sequences of 4 digit numbers and produces answer of 24.
 
